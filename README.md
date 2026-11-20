@@ -6,7 +6,7 @@ Command danger classification and an execution policy: read-only only when prove
 
 Part of [Mercurius](https://github.com/opencck/mercurius) — an autonomous personal agent. The package does not depend on the Mercurius application and can be used on its own.
 
-**Status:** planned, no code yet.
+**Status:** the code still lives in the main repository, in [`src/CommandPolicy/`](https://github.com/opencck/mercurius/tree/master/src/CommandPolicy) (classifiers of shell and SSH commands, the never-allowed list); no date to move it yet.
 
 **Stack:** PHP 8.2+.
 
